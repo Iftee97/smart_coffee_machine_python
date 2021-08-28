@@ -32,9 +32,9 @@ resources = {
     "money": 0.0
 }
 
-print("\n---[Welcome to the state of the art coffee machine]---")
+print("\n---[Welcome to the state of the art smart coffee machine]---")
 print("\n**Type 'report' to get a report of the resources available**")
-print("**Type 'off' or 'exit' to turn off machine and exit the program**")
+print("**Type 'off' or 'exit' to turn off machine (exit the program)**")
 
 
 def check_resources(coffee):
